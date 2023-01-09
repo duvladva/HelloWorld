@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Текст набран на новом ПК");
         System.out.println("Еще добавлен текст");
         System.out.println("Еще добавлен текст");
+        System.out.println("yhrgrteyeheget");
     }
 }
